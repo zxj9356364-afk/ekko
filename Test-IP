@@ -1,0 +1,20 @@
+# 包含常用应用的各种去广告规则。
+# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
+
+# 163
+DOMAIN-SUFFIX,a.youdao.com
+DOMAIN-SUFFIX,adgeo.corp.163.com
+DOMAIN-SUFFIX,analytics.126.net
+DOMAIN-SUFFIX,bobo.corp.163.com
+DOMAIN-SUFFIX,c.youdao.com
+DOMAIN-SUFFIX,clkservice.youdao.com
+DOMAIN-SUFFIX,conv.youdao.com
+DOMAIN-SUFFIX,dsp-impr2.youdao.com
+DOMAIN-SUFFIX,dsp.youdao.com
+DOMAIN-SUFFIX,fa.corp.163.com
+DOMAIN-SUFFIX,g.corp.163.com
+DOMAIN-SUFFIX,g1.corp.163.com
+DOMAIN-SUFFIX,gb.corp.163.com
+DOMAIN-SUFFIX,gorgon.youdao.com
+DOMAIN-SUFFIX,haitaoad.nosdn.127.net
+DOMAIN-SUFFIX,iadmatvideo.nosdn.127.net
